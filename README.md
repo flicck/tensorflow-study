@@ -1,0 +1,2 @@
+# tensorflow-study
+tensorflow学习代码和笔记，参考龙良序老师的深度学习与tensorflow2入门实战，持续更新到结束
